@@ -1,6 +1,4 @@
 setup.py
-qs_files/__init__.py
-qs_files/configs.py
 qs_files.egg-info/PKG-INFO
 qs_files.egg-info/SOURCES.txt
 qs_files.egg-info/dependency_links.txt
